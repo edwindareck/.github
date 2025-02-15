@@ -129,7 +129,8 @@ distribution.
 
 These are templates used in correspondance on behalf of this security function.
 
-```email
+```email: dareck05112308@gmail.com
+ 
 Welcome,
 
 You (or your list) have been identified as a contact for receiving security announcements from the Open Containers Initiative (OCI).
